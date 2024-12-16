@@ -50,7 +50,7 @@ Install Git: Download and install Git from here if you don't have it already.
 Clone the Repository: Open your terminal (Command Prompt or PowerShell) and run the following command:
 
 ```
-git clone https://github.com/hk1105/https://github.com/hk1105/Resume-scoring.git
+git clone https://github.com/hk1105/Resume-scoring.git
 ```
 
 This will create a local copy of the repository on your machine.
